@@ -82,7 +82,7 @@ services:
 With you prefer to run the application without Docker, you can set the environment variable in the command line. Here's the command:
 
 ```bash
-./gradlew build -DCPF_VALIDATOR_URL=https://user-info.herokuapp.com/users/
+./gradlew build -DCPF_VALIDATOR_URL=https://user-info.herokuapp.com
 ```
 
 
