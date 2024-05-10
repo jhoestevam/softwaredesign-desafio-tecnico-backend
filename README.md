@@ -56,7 +56,7 @@ This command compiles the Java code and packages the application into a JAR file
 You can build the Docker image for the application using the docker build command. Here's the command:
 
 ```bash
-docker build -t softwaredesign-challenge-app:latest .
+docker build -t softdesign-challenge-app:latest .
 ```
 
 You can use Docker Compose to run the application. This requires a docker-compose.yml file in your project directory. Here's the command:
